@@ -1,0 +1,1 @@
+This project is a web clone of the NxtTalks platform, created during an internship program. It replicates the key features and layout of the original site using HTML, CSS, and Bootstrap for a responsive, user-friendly interface.
